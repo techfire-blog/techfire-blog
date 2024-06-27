@@ -22,7 +22,7 @@ title: techfire
 email: support@techfire.io
 description: >- # this means to ignore newlines until "baseurl:"
   techfire.io is your go-to resource for personal finance and financial independence tips tailored to professionals in the tech industry. Leveraging insights from a career spanning the world’s largest technology companies and capital markets, we provide practical advice to help you achieve financial freedom.
-baseurl: "/techfire-blog/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
